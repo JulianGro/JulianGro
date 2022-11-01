@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<a rel="me" href="https://social.linux.pizza/@juliangro">Mastodon</a>
+<a href="https://social.linux.pizza/@juliangro" rel="me">Mastodon</a>
